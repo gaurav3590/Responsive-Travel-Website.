@@ -1,4 +1,3 @@
-# PRODIGY_WD_01
 ## Responsive Travel Website.
 
 ### Run this code following this step:
